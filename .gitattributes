@@ -1,0 +1,4 @@
+ipl_prediction_project/data/ipl_ball_by_ball.csv filter=lfs diff=lfs merge=lfs -text
+pythonmlproject/IPL.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
